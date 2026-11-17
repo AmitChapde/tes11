@@ -13,4 +13,4 @@ function shuffle(items) {
 }
 
 console.log('Random number:', randomInt(1, 100));
-console.log('Shuffled list:', shuffle(['🌙', '⭐', '☀️', '🌈', '😂', '💋']));
+console.log('Shuffled list:', shuffle(['🌙', '⭐', '☀️', '🌈', '😂']));
